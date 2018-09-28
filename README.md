@@ -3,6 +3,8 @@
 The __sduino MB__ is an attempt at creating a mechanically and electrically Arduino-MEGA-compatible development board based on the __STM8S208MB__ microcontroller.
 Both, mechanical and electrical design are to a notable degree based on the [Arduino MEGA board](https://store.arduino.cc/arduino-mega-2560-rev3).
 
+![sduino MB 208](img/sduino_mb_208.jpg)
+
 ## Pin mapping
 
 See [pin mapping documentation](docs/pinmapping.md) for details.
